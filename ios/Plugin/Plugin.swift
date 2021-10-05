@@ -26,6 +26,4 @@ public class AppmetricaPush: CAPPlugin {
             print("An error occurred while registering the YMPYandexMetricaPush token")
         }
     }
-
-    @objc func
 }
