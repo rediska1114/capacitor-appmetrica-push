@@ -1,6 +1,7 @@
 import Capacitor
 import Foundation
 import UserNotifications
+import YandexMobileMetrica
 import YandexMobileMetricaPush
 
 /**
