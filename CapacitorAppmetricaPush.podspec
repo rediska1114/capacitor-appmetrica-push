@@ -14,6 +14,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "11.0"
   s.dependency "Capacitor"
   s.dependency "YandexMobileMetricaPush"
+  s.dependency "YandexMobileMetrica"
   s.swift_version = "5.1"
   s.library = "sqlite3"
   s.library = "z"
